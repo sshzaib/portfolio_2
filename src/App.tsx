@@ -101,7 +101,7 @@ export default function App() {
             transition={{ duration: 0.6 }}
           >
             <Badge>Available for new opportunities</Badge>
-            <h1 className="text-8xl md:text-8xl font-sans font-bold mt-6 mb-8 tracking-tighter leading-tight cursor-default">
+            <h1 className="text-5xl md:text-8xl font-sans font-bold mt-6 mb-8 tracking-tighter leading-tight cursor-default">
               <div className="overflow-hidden">
                 <motion.span 
                   initial={{ y: "100%" }}
